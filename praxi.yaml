@@ -1,0 +1,15 @@
+version: 2.0
+
+id: learning-cooking
+
+about:
+  title: Learning Cooking
+  description: Learning how to cook
+
+contacts:
+  - type: author
+    name: Gonzalo Vazquez
+    email: gonzalovazquez010@gmail.com
+
+priority:
+  - type: low
